@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to my Ruby application on OpenShift</h1>
+            <h1>Este es un ejemplo para INDRA</h1>
           </hgroup>
 
 
